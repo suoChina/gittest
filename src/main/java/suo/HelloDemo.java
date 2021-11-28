@@ -22,5 +22,6 @@ public class HelloDemo {
         System.out.println("hello master");
         System.out.println("hello git8");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
